@@ -2,3 +2,7 @@ h1
 {
   font-size: 16 px;
 }
+P {
+    font-weight: bold;
+    color: red;
+  }
